@@ -1,8 +1,13 @@
 # Personalized bash thems including below
+.bash_aliases  
+.bash_history   
+.vimrc  
+.bashrc  
+.vim  
+.vim/dracula.vim  
 
-.bash_aliases_
-.bash_history_ 
-.vimrc_ 
-.bashrc_ 
-.vim_ 
-.vim/dracula.vim_
+
+
+
+
+
